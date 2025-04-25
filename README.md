@@ -1,7 +1,7 @@
 # GitHub Repository Crawler
 
 A Python tool that crawls GitHub repositories ranked by stars and stores repository information in a SQLite database.   
-Currently only get repotitories name and owner name   
+Currently only get repositories name and owner name   
 Future: Add more repository details (e.g., commits, releases)
 ## Features
 
